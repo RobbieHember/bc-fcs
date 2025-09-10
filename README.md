@@ -1,6 +1,6 @@
 # bc-fcs
 ## INTRODUCTION
-The BC Forest Carbon Summary (BC-FCS) is an umbrella project to support estimation, accounting and reporting of climate change mitigation analysis in BC’s forest setor.
+The BC Forest Carbon Summary (BC-FCS) is an umbrella project to support estimation, accounting and reporting of climate change mitigation analysis in BC’s forest sector.
 
 ## License
 
